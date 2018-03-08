@@ -9,7 +9,7 @@
       "username": "etnkB4Aa7wcYU7u8TcSJo8KF2Hept8Qyads6X52GqAaJ1zLzY2ytQ7YSiHtqiL6NBb8PwMisv9cVDDZHUBhi6RgU28p1CtNDYn",
       "password": "worker:jobenik10@gmail.com",
       "keepAlive": true,
-      "coin": "etn",
+      "coin": "xmr",
       "default": true
     }
   ],
@@ -18,7 +18,7 @@
       "port": 8080,
       "ssl": false,
       "diff": 1000,
-      "coin": "etn"
+      "coin": "xmr"
     }
   ],
   "bindAddress": "0.0.0.0",

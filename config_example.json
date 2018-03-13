@@ -17,7 +17,7 @@
     {
       "port": 8080,
       "ssl": false,
-      "diff": 1000,
+      "diff": 3000,
       "coin": "xmr"
     }
   ],
@@ -26,7 +26,7 @@
   "daemonAddress": "127.0.0.1:18081",
   "coinSettings": {
     "xmr":{
-      "minDiff": 200,
+      "minDiff": 2500,
       "maxDiff": 300000,
       "shareTargetTime": 30
     }

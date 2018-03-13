@@ -1,12 +1,12 @@
 {
   "pools": [
     {
-      "hostname": "pool.electroneum.hashvault.pro",
+      "hostname": "pool.leviarcoin.org",
       "port": 5555,
       "ssl": false,
       "allowSelfSignedSSL": false,
       "share": 100,
-      "username": "etnkB4Aa7wcYU7u8TcSJo8KF2Hept8Qyads6X52GqAaJ1zLzY2ytQ7YSiHtqiL6NBb8PwMisv9cVDDZHUBhi6RgU28p1CtNDYn",
+      "username": "LsDjN4vDhDSjT21daqyiZ96z6vaZeyssGLcVUAfjYUxjdwuAZ9ki6iNZYNupRwKvmGdnoV1GAwmoHGgquP2eNdyC3v4hRPo.4cb238e62b169eb67324b77c9be1113b36a4ed65fa17a1cfd401d239a4a2c9e7.4cb238e62b169eb67324b77c9be1113b36a4ed65fa17a1cfd401d239a4a2c9e7",
       "password": "worker:jobenik10@gmail.com",
       "keepAlive": true,
       "coin": "xmr",
